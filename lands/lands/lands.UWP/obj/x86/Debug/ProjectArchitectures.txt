@@ -1,0 +1,1 @@
+C:\git\xamarin2\lands\lands\lands.UWP\lands.UWP.csproj;x86

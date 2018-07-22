@@ -1,0 +1,13 @@
+C:\git\xamarin2\lands\lands\lands\bin\Debug\netstandard2.0\lands.deps.json
+C:\git\xamarin2\lands\lands\lands\bin\Debug\netstandard2.0\lands.dll
+C:\git\xamarin2\lands\lands\lands\bin\Debug\netstandard2.0\lands.pdb
+C:\git\xamarin2\lands\lands\lands\obj\Debug\netstandard2.0\lands.csprojAssemblyReference.cache
+C:\git\xamarin2\lands\lands\lands\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\git\xamarin2\lands\lands\lands\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\git\xamarin2\lands\lands\lands\obj\Debug\netstandard2.0\lands.csproj.CoreCompileInputs.cache
+C:\git\xamarin2\lands\lands\lands\obj\Debug\netstandard2.0\lands.AssemblyInfoInputs.cache
+C:\git\xamarin2\lands\lands\lands\obj\Debug\netstandard2.0\lands.AssemblyInfo.cs
+C:\git\xamarin2\lands\lands\lands\obj\Debug\netstandard2.0\XamlC.stamp
+C:\git\xamarin2\lands\lands\lands\obj\Debug\netstandard2.0\lands.dll
+C:\git\xamarin2\lands\lands\lands\obj\Debug\netstandard2.0\lands.pdb
+C:\git\xamarin2\lands\lands\lands\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
