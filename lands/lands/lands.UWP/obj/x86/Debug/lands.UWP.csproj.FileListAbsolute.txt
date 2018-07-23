@@ -294,3 +294,11 @@ C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Debug\qualifiers.txt.intermediate
 C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\CommonServiceLocator.dll
+C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\GalaSoft.MvvmLight.dll
+C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\GalaSoft.MvvmLight.pdb
+C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Debug\GalaSoft.MvvmLight.Platform.pri.xml

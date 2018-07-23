@@ -7,15 +7,23 @@ using Xamarin.Forms;
 
 namespace lands.ViewModels
 {
-	public class MainViewModel : ContentPage
+    
+
+    public class MainViewModel 
 	{
-		public MainViewModel ()
+        #region ViewModels
+
+        public LoginViewModel Login { get; set; }
+
+        #endregion
+
+        #region Constructors
+        public MainViewModel ()
 		{
-			Content = new StackLayout {
-				Children = {
-					new Label { Text = "Welcome to Xamarin.Forms!" }
-				}
-			};
+            this.Login = new LoginViewModel();
 		}
-	}
+        #endregion
+    }
+
+
 }

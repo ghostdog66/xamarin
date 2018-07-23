@@ -10,7 +10,7 @@ namespace lands.Infrastructure
     using Xamarin.Forms;
     using ViewModels;
 
-    public class InstanceLocator : ContentPage
+    public class InstanceLocator 
     {
         #region Properties
         

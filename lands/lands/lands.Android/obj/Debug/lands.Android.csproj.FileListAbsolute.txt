@@ -99,7 +99,3 @@ C:\git\xamarin2\lands\lands\lands.Android\obj\Debug\android\assets\System.Xml.pd
 C:\git\xamarin2\lands\lands\lands.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
 C:\git\xamarin2\lands\lands\lands.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
 C:\git\xamarin2\lands\lands\lands.Android\obj\Debug\res\drawable\appalomitaslogo2.png
-C:\git\xamarin2\lands\lands\lands.Android\bin\Debug\lands.Android.dll
-C:\git\xamarin2\lands\lands\lands.Android\obj\Debug\linksrc\lands.Android.dll.mdb
-C:\git\xamarin2\lands\lands\lands.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
-C:\git\xamarin2\lands\lands\lands.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
