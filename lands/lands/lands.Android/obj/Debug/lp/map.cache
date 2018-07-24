@@ -1,6 +1,13 @@
-lands
-System.Runtime
+CommonServiceLocator
 FormsViewGroup
+GalaSoft.MvvmLight
+GalaSoft.MvvmLight.Extras
+GalaSoft.MvvmLight.Platform
+lands
+Newtonsoft.Json
+Plugin.Connectivity.Abstractions
+Plugin.Connectivity
+System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
 Xamarin.Android.Arch.Lifecycle.Runtime
@@ -25,7 +32,6 @@ Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 netstandard
-CommonServiceLocator
-GalaSoft.MvvmLight
-GalaSoft.MvvmLight.Extras
-GalaSoft.MvvmLight.Platform
+System.Resources.ResourceManager
+System.ComponentModel
+System.Reflection.Extensions

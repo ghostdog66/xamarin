@@ -120,11 +120,14 @@
 
                     </Label>
 
-                    <StackLayout
+                    
+                </StackLayout>
+
+                <StackLayout
                         Margin="40,0"
                         Orientation="Horizontal">
-                        
-                    
+
+
                     <Button
                             Command="{Binding LoginCommand}"
                             BorderRadius="23"
@@ -132,6 +135,7 @@
                             Text="Login"
                             BackgroundColor="Navy"
                             HorizontalOptions="FillAndExpand"
+                            IsEnabled="{Binding IsEnabled,Mode=TwoWay}"
                             
                             TextColor="White"
                     >
@@ -145,17 +149,16 @@
                             BackgroundColor="Purple"
                             HorizontalOptions="FillAndExpand"
                             TextColor="White"
+                            IsEnabled="{Binding IsEnabled,Mode=TwoWay}"
                         
                         >
 
                     </Button>
 
-                    </StackLayout>
                 </StackLayout>
-
                 <StackLayout 
                     VerticalOptions="EndAndExpand"
-                    HorizontalOptions="Center"
+                    HorizontalOptions="Center"  
                     Orientation="Horizontal">
 
                     <Image 

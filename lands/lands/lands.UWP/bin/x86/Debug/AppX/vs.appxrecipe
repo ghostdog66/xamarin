@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-23T02:03:58.920</Modified>
+      <Modified>2018-07-24T02:33:05.124</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\lands.UWP.exe">
       <PackagePath>entrypoint\lands.UWP.exe</PackagePath>
-      <Modified>2018-07-23T02:03:57.027</Modified>
+      <Modified>2018-07-24T02:33:03.457</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\destrox\.nuget\packages\commonservicelocator\2.0.2\lib\netstandard2.0\CommonServiceLocator.dll">
       <PackagePath>CommonServiceLocator.dll</PackagePath>
@@ -54,6 +54,10 @@
     <AppxPackagedFile Include="C:\Users\destrox\.nuget\packages\mvvmlightlibs\5.4.1\lib\uap10.0\GalaSoft.MvvmLight.dll">
       <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
       <Modified>2018-02-12T12:17:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\destrox\.nuget\packages\newtonsoft.json\11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2018-03-24T16:44:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\destrox\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.1\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -711,6 +715,14 @@
       <PackagePath>netstandard.dll</PackagePath>
       <Modified>2017-09-30T18:26:12.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\destrox\.nuget\packages\xam.plugin.connectivity\3.2.0\lib\UAP10\Plugin.Connectivity.Abstractions.dll">
+      <PackagePath>Plugin.Connectivity.Abstractions.dll</PackagePath>
+      <Modified>2018-07-02T12:40:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\destrox\.nuget\packages\xam.plugin.connectivity\3.2.0\lib\UAP10\Plugin.Connectivity.dll">
+      <PackagePath>Plugin.Connectivity.dll</PackagePath>
+      <Modified>2018-07-02T12:40:58.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\destrox\.nuget\packages\xamarin.forms\3.0.0.561731\lib\uap10.0\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
       <Modified>2018-06-08T05:48:40.000</Modified>
@@ -729,7 +741,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands\bin\Debug\netstandard2.0\lands.dll">
       <PackagePath>lands.dll</PackagePath>
-      <Modified>2018-07-23T02:03:45.838</Modified>
+      <Modified>2018-07-24T02:32:54.402</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\appalomitasLogo2.png">
       <PackagePath>appalomitasLogo2.png</PackagePath>
@@ -892,11 +904,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-07-23T02:03:56.201</Modified>
+      <Modified>2018-07-24T02:33:02.918</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-07-23T02:03:56.202</Modified>
+      <Modified>2018-07-24T02:33:02.918</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -949,11 +961,11 @@
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-23T01:40:03.327</Modified>
+      <Modified>2018-07-24T01:40:27.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\Core\lands.UWP.exe">
       <PackagePath>lands.UWP.exe</PackagePath>
-      <Modified>2018-07-23T02:03:58.909</Modified>
+      <Modified>2018-07-24T02:33:05.116</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
