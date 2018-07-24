@@ -156,6 +156,7 @@
                     </Button>
 
                 </StackLayout>
+
                 <StackLayout 
                     VerticalOptions="EndAndExpand"
                     HorizontalOptions="Center"  

@@ -18,7 +18,7 @@ namespace lands.Service
     public class ApiService
     {
 
-           /*
+          
         public async Task<Response> CheckConnection()
         {
             if (!CrossConnectivity.Current.IsConnected)
@@ -48,7 +48,7 @@ namespace lands.Service
             };
         }
 
-   */
+   
 
         public async Task<TokenResponse> GetToken(
             string urlBase,
