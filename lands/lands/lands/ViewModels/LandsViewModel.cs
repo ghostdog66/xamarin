@@ -2,12 +2,14 @@
 
 namespace lands.ViewModels
 {
+    using GalaSoft.MvvmLight.Command;
     using lands.Service;
     using Models;
     using System;
     using System.Collections.Generic;
     using System.Collections.ObjectModel;
     using System.Text;
+    using System.Windows.Input;
     using Xamarin.Forms;
 
     
@@ -20,6 +22,7 @@ namespace lands.ViewModels
         private ApiService apiService;
 
 
+
         #endregion
 
 
@@ -27,11 +30,14 @@ namespace lands.ViewModels
         #region Attributes
 
         private ObservableCollection<Land> lands;
+        private bool isRefreshing; 
 
 
         #endregion
 
         #region Properties
+
+
         public ObservableCollection<Land> Lands
         {
             get
@@ -44,9 +50,26 @@ namespace lands.ViewModels
                 SetValue(ref this.lands, value);
             }
 
-            #endregion
-
         }
+
+             public bool IsRefreshing
+            {
+                get
+                {
+                    return this.isRefreshing;
+                }
+
+                set
+                {
+                    SetValue(ref this.isRefreshing, value);
+                }
+            }
+
+
+
+        #endregion
+
+
 
         #region Constructors
 
@@ -62,11 +85,16 @@ namespace lands.ViewModels
         private async void LoadLands()
         {
 
+
+            this.IsRefreshing = true;
             var connection = await this.apiService.CheckConnection();
 
             if (!connection.IsSuccess)
             {
-                await Application.Current.MainPage.DisplayAlert("Error",
+
+                this.IsRefreshing = false;
+                await Application.Current.MainPage.DisplayAlert(
+                    "Error",
                    connection.Message,
                    "Accept");
                 await Application.Current.MainPage.Navigation.PopAsync();
@@ -81,7 +109,9 @@ namespace lands.ViewModels
                 "/v2/all");
             if (!response.IsSuccess)
             {
-                await Application.Current.MainPage.DisplayAlert("Error",
+                this.IsRefreshing = false;
+                await Application.Current.MainPage.DisplayAlert(
+                    "Error",
                     response.Message,
                     "Accept");
                 await Application.Current.MainPage.Navigation.PopAsync();
@@ -90,8 +120,20 @@ namespace lands.ViewModels
 
             var list = (List<Land>)response.Result;
             this.Lands = new ObservableCollection<Land>(list);
+            this.IsRefreshing = false;
         }
 
+        #endregion
+
+
+        #region Commands
+
+        public ICommand RefreshCommand {
+            get
+            {
+                return new RelayCommand(LoadLands);
+            }
+        }
         #endregion
 
 

@@ -2375,6 +2375,12 @@ namespace lands.Droid
 			// aapt resource value: 0x7F090055
 			public const int ic_audiotrack_light = 2131296341;
 			
+			// aapt resource value: 0x7F010004
+			public const int ic_chevron_left = 2130771972;
+			
+			// aapt resource value: 0x7F010005
+			public const int ic_chevron_right = 2130771973;
+			
 			// aapt resource value: 0x7F090056
 			public const int ic_dialog_close_dark = 2131296342;
 			
@@ -2900,8 +2906,8 @@ namespace lands.Droid
 			// aapt resource value: 0x7F090104
 			public const int ic_vol_type_tv_light = 2131296516;
 			
-			// aapt resource value: 0x7F010004
-			public const int instagram-logo = 2130771972;
+			// aapt resource value: 0x7F010006
+			public const int instagram-logo = 2130771974;
 			
 			// aapt resource value: 0x7F090105
 			public const int mr_button_connected_dark = 2131296517;
@@ -3008,8 +3014,8 @@ namespace lands.Droid
 			// aapt resource value: 0x7F09006A
 			public const int tooltip_frame_light = 2131296362;
 			
-			// aapt resource value: 0x7F010005
-			public const int twitter-logo = 2130771973;
+			// aapt resource value: 0x7F010007
+			public const int twitter-logo = 2130771975;
 			
 			static Drawable()
 			{

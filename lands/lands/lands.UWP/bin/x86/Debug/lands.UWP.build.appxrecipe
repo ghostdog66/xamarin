@@ -670,6 +670,12 @@
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\facebook-logo.png">
       <PackagePath>facebook-logo.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\ic_chevron_left.png">
+      <PackagePath>ic_chevron_left.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\ic_chevron_right.png">
+      <PackagePath>ic_chevron_right.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\instagram-logo.png">
       <PackagePath>instagram-logo.png</PackagePath>
     </AppxPackagedFile>

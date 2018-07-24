@@ -24,6 +24,7 @@ namespace lands.ViewModels
 		{
             instance = this;
             this.Login = new LoginViewModel();
+            //this.Lands = new LandsViewModel();
 		}
         #endregion
 

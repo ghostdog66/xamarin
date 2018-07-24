@@ -1,0 +1,12 @@
+/ref:"C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\destrox\.nuget\packages\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\destrox\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\x86\ilc\lib\Private\\"
+/ref:"C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Release\ilc\in"
+/ref:"C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\destrox\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\csc"
+/out:"C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Release\ilc\intermediate\lands.UWP.Sg"
+"@C:\git\xamarin2\lands\lands\lands.UWP\obj\x86\Release\ilc\intermediate\lands.UWP.Sg\ComputedSerializationInput.txt"

@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-24T02:33:05.124</Modified>
+      <Modified>2018-07-24T22:58:07.060</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\lands.UWP.exe">
       <PackagePath>entrypoint\lands.UWP.exe</PackagePath>
-      <Modified>2018-07-24T02:33:03.457</Modified>
+      <Modified>2018-07-24T22:58:06.002</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\destrox\.nuget\packages\commonservicelocator\2.0.2\lib\netstandard2.0\CommonServiceLocator.dll">
       <PackagePath>CommonServiceLocator.dll</PackagePath>
@@ -741,7 +741,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands\bin\Debug\netstandard2.0\lands.dll">
       <PackagePath>lands.dll</PackagePath>
-      <Modified>2018-07-24T02:32:54.402</Modified>
+      <Modified>2018-07-24T22:57:59.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\appalomitasLogo2.png">
       <PackagePath>appalomitasLogo2.png</PackagePath>
@@ -886,6 +886,14 @@
       <PackagePath>facebook-logo.png</PackagePath>
       <Modified>2018-07-22T21:21:50.640</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\ic_chevron_left.png">
+      <PackagePath>ic_chevron_left.png</PackagePath>
+      <Modified>2018-07-24T20:10:46.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\ic_chevron_right.png">
+      <PackagePath>ic_chevron_right.png</PackagePath>
+      <Modified>2018-07-24T20:10:46.416</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\instagram-logo.png">
       <PackagePath>instagram-logo.png</PackagePath>
       <Modified>2018-07-22T21:33:33.783</Modified>
@@ -904,11 +912,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-07-24T02:33:02.918</Modified>
+      <Modified>2018-07-24T22:58:05.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-07-24T02:33:02.918</Modified>
+      <Modified>2018-07-24T22:58:05.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -961,11 +969,11 @@
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-24T01:40:27.711</Modified>
+      <Modified>2018-07-24T20:46:14.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\git\xamarin2\lands\lands\lands.UWP\bin\x86\Debug\Core\lands.UWP.exe">
       <PackagePath>lands.UWP.exe</PackagePath>
-      <Modified>2018-07-24T02:33:05.116</Modified>
+      <Modified>2018-07-24T22:58:07.054</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
